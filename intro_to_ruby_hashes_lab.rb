@@ -4,8 +4,8 @@ end
 
 def my_hash
  new_hash {
-   :sumaya => "youngest",
-   :Mosaab => "oldest"
+   :sumaya = > "youngest",
+   :Mosaab = > "oldest"
  }
 end
 
