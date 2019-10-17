@@ -3,9 +3,9 @@ def new_hash
 end
 
 def my_hash
- new_hash {
-   :sumaya = > "youngest",
-   :Mosaab = > "oldest"
+ new_hash = {
+   :sumaya => "youngest",
+   :Mosaab => "oldest"
  }
 end
 
